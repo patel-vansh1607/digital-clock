@@ -1,4 +1,5 @@
 import { useState } from "react";
+import"../styles/clock.css"
 
 const DigitalClock = () => {
 	let Ctime = new Date().toLocaleTimeString()
