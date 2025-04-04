@@ -1,0 +1,6 @@
+.main-div .clock{
+    font-size: 110px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
